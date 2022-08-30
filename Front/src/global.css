@@ -1,0 +1,12 @@
+:root {
+    --color-primary: #00AACD;
+   
+    /*
+     you can use these global values by importing them like this:
+    @import url(...../styles/global.css)
+    
+    .randomClass{
+      color:var(global property);
+    }
+    */
+  }
